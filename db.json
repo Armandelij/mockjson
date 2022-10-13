@@ -1,27 +1,29 @@
-
-   [
-	{
-		“id”: 1,
-		“name”: “Elijah”,
-		“favoriteNumber”: 7,
-		“hobbies”: [“Weightlifting”, “tattoos”],
-	
-		}, 
-
-{
-		“id”: 2,
-		“name”: “Bob”,
-		“favoriteNumber”: 4,
-		“hobbies”: [“TV”, “Video Games”],
-	
-		}, 
-
-{
-		“id”: 3,
-		“name”: “Billy”,
-		“favoriteNumber”: 6,
-		“hobbies”: [“Food”, “sleeping”],
-	
-		}
-
+[
+   {
+      "id":1,
+      "name":"Elijah",
+      "favoriteNumber":7,
+      "hobbies":[
+         "Weightlifting",
+         "tattoos"
       ]
+   },
+   {
+      "id":2,
+      "name":"Bob",
+      "favoriteNumber":4,
+      "hobbies":[
+         "TV",
+         "Video Games"
+      ]
+   },
+   {
+      "id":3,
+      "name":"Billy",
+      "favoriteNumber":6,
+      "hobbies":[
+         "Food",
+         "sleeping"
+      ]
+   }
+]
