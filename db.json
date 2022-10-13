@@ -1,29 +1,34 @@
-[
-   {
-      "id":1,
-      "name":"Elijah",
-      "favoriteNumber":7,
-      "hobbies":[
-         "Weightlifting",
-         "tattoos"
-      ]
-   },
-   {
-      "id":2,
-      "name":"Bob",
-      "favoriteNumber":4,
-      "hobbies":[
-         "TV",
-         "Video Games"
-      ]
-   },
-   {
-      "id":3,
-      "name":"Billy",
-      "favoriteNumber":6,
-      "hobbies":[
-         "Food",
-         "sleeping"
-      ]
-   }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
