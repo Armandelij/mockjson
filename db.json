@@ -1,6 +1,6 @@
 {
   "Coffee": [
     { "id": 1, "name": "Pumpkin Cream Cold Brew", "price": 6, "imageName": "pumpkin-cream-cold-brew" },
-    { "id": 2, "name": "Salted Caramel Cream Cold Brew", "price": 5,  "imageName": "salted-caramel-cream-cold-brew" },
+    { "id": 2, "name": "Salted Caramel Cream Cold Brew", "price": 5,  "imageName": "salted-caramel-cream-cold-brew" }
    ]
 }
