@@ -1,1 +1,13 @@
-
+{
+   "name":"Cold Brew",
+   "id":1,
+   "items":[
+      {
+         "id":1,
+         "name":"Pumpkin Creme Cold Brew",
+         "price":6,
+         "description":"blah blah blah",
+         "imageName":"pumpkin-cream-cold-brew"
+      }
+   ]
+}
